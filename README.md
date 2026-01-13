@@ -44,15 +44,16 @@ O projeto foi concluído em aproximadamente 5 horas líquidas de desenvolvimento
 * **Simulação de Projeto Real**: Implementei classes de constantes para cores, imagens e strings. Essa abordagem simula um Design System e um Asset Catalog organizado, demonstrando como o projeto seria estruturado em um ambiente corporativo para facilitar a manutenção e a escalabilidade visual.
 
 * **Com mais tempo**: Implementaria uma cobertura completa de testes de interface (UITests) e expandiria os testes unitários para atingir 100% de cobertura em todas as camadas, garantindo a robustez total contra regressões.
-* **PAT e ssh**: Eu tive um problema com ssh e pat da minha máquina e nao consegui clonar o repo e commitar os testes unitários, pelo limite de tempo nao consegui implementar os testes unitários.
-
+  
 ## Qual você considera ser a parte mais fraca do seu projeto?
 
 A cobertura de testes ainda pode ser expandida. Embora tenha implementado testes unitários simples para validar a lógica principal e a decodificação de dados, a arquitetura permite uma cobertura muito mais profunda, incluindo testes de UI e testes de integração que não foram totalmente explorados no tempo estipulado.
 
 ## Há alguma outra informação que você gostaria que soubéssemos?
 
-A camada de networking incluída neste projeto faz parte do meu stack pessoal de desenvolvimento, a qual venho refinando em diversos projetos para lidar com requisições assíncronas de forma eficiente e tipada.
+~~A camada de networking incluída neste projeto faz parte do meu stack pessoal de desenvolvimento, a qual venho refinando em diversos projetos para lidar com requisições assíncronas de forma eficiente e tipada.~~
+
+**PAT e ssh**: Eu tive um problema com ssh e pat da minha máquina e nao consegui clonar o repo no dia seguinte e commitar os testes unitários, pelo limite de tempo nao consegui resolver esse problmea e commitar os testes unitários.
 
 **Desenvolvido por:** Luis Filipe Fontinelles Bezerra  
 **LinkedIn:** [https://www.linkedin.com/in/luisfontinelles](https://www.linkedin.com/in/luisfontinelles)
